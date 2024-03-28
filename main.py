@@ -10,11 +10,11 @@ NOIR = (0, 0, 0)
 
 
 #Création d'une fenêtre en plein écran
-monEcran = pygame.display.set_mode((1920, 1080))
+monEcran = pygame.display.set_mode((1440, 810))
 
 #Récupération de la résolution de l'écran
-width = 1920
-height = 1080
+width = 1440
+height = 810
 
 pygame.display.set_caption("Starship Savior")
 
